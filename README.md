@@ -15,3 +15,6 @@ Alzheimer’s disease (AD) is characterized by the accumulation of amyloid plaqu
 
 ## Code Inventory
 
+Age_Prediction_Sex_Based_Pipeline.ipynb --> File descirption of the original code for deployment of MetaboAge and AgeBias training on UKBB
+CrossSectional_w_AssociatoR.R --> Association analysis using the original package AssociatoR (https://github.com/PradoVarathan/AssociatoR)
+
