@@ -19,3 +19,7 @@ Alzheimer’s disease (AD) is characterized by the accumulation of amyloid plaqu
 
 2. CrossSectional_w_AssociatoR.R --> Association analysis using the original package AssociatoR (https://github.com/PradoVarathan/AssociatoR)
 
+## Contact Poing
+
+Pradeep Varathan Pugalenthi (pradeepvarathanpugalenthi@gmail.com)
+Dr Jingwen Yan (jingyan@iu.edu)
