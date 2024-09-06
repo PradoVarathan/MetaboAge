@@ -21,5 +21,5 @@ Alzheimer’s disease (AD) is characterized by the accumulation of amyloid plaqu
 
 ## Contact Poing
 
-Pradeep Varathan Pugalenthi (pradeepvarathanpugalenthi@gmail.com)
+Pradeep Varathan Pugalenthi (pradeepvarathanpugalenthi@gmail.com)<br>
 Dr Jingwen Yan (jingyan@iu.edu)
