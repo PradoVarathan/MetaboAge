@@ -19,6 +19,8 @@ Alzheimer’s disease (AD) is characterized by the accumulation of amyloid plaqu
 
 2. CrossSectional_w_AssociatoR.R --> Association analysis using the original package AssociatoR (https://github.com/PradoVarathan/AssociatoR)
 
+3. Survival_Analysis.R --> Survival analysis between multiple groups to test metaboAge,  genetic effects in AD and the progression of AD.
+   
 ## Contact Poing
 
 Pradeep Varathan Pugalenthi (pradeepvarathanpugalenthi@gmail.com)<br>
